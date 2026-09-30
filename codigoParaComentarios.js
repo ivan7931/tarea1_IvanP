@@ -1,6 +1,7 @@
 /**
  * Documentación
- * @author Natalia
+ * @author Natalia (documentación)
+ * @author Iván (código)
  * Declaración de constantes para piezas de ajedrez.
  * @type {string} 5 constantes creadas con texto de tipo string con figuras de ajedrez Unicode.
  */
